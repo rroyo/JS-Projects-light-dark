@@ -195,7 +195,7 @@ p {
 
 .theme-switch-wrapper span {
   margin-right: 10px;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .toggle-text {
@@ -255,6 +255,6 @@ input:checked + .slider::before {
 }
 
 .fas {
-  font-size: 30px;
+  font-size: 1.875rem;
   margin-right: 5px;
 }
